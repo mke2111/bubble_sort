@@ -16,16 +16,20 @@ The "while" method was used in this case and the second method of bubble_sort_by
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+
 Computer running Mac OS, Windows, or Linux Ubuntu.
 Internet browser: Firefox, Google Chrome, Opera...
 
 ### Setup
+
 Download the code or copy the git repository to your computer.
 
 ### Usage
+
 Run the main.rb file in your terminal.
 
 ### Run tests
+
 Linters errors
 
 ## Authors
@@ -38,10 +42,9 @@ Linters errors
 
 ### Author 2
 
-- GitHub: 
-- Twitter: 
-- LinkedIn: 
-
+- Github: [@githubhandle](https://github.com/ositaadimma)
+- Linkedin: [linkedin](https://www.linkedin.com/in/ositaadimma-ezugwu-020243132/)
+- Twitter: [@ositaadimma](https://twitter.com/ositaadimma)
 
 ## 🤝 Contributing
 
