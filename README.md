@@ -1,6 +1,6 @@
 # Bubble Sort
 
-The bubble sort methods used are only meant to replicate the method "Sort" whose function of ordering the arrangement of Arrays.
+The bubble sort methods used are only meant to replicate the method "Sort" whose function of ordering the arrangement of elements in Arrays.
 The "while" method was used in this case and the second method of bubble_sort_by uses the yield keyword.
 
 ## Built with
