@@ -21,7 +21,7 @@ def bubble_sort_by(array)
   count = 0
 
   while count < array.length - 1
-    status = yield(array[count], array[count + 1]).positive?
+    status = yield(array[count], array[count + 1]).positive? if block_given?
 
     if status
       array[count], array[count + 1] = array[count + 1], array[count]
