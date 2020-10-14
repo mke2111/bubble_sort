@@ -1,3 +1,5 @@
+# Bubble sort function
+
 def bubble_sort(array)
   count = 0
 
@@ -14,12 +16,6 @@ def bubble_sort(array)
 
   p array
 end
-
-try_me = [3, 1, 5, 8, 9]
-
-bubble_sort(try_me)
-
-
 
 def bubble_sort_by(array)
   count = 0
@@ -38,6 +34,8 @@ def bubble_sort_by(array)
   p array
 end
 
-bubble_sort_by(["hi","hello","hey"]) do |left,right|
-  left.length - right.length
-end
+try_me = [3, 1, 5, 8, 9]
+
+bubble_sort(try_me)
+
+bubble_sort_by(%w[hi hello hey]) { |left, right| left.length - right.length }
